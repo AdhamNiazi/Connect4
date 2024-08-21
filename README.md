@@ -14,7 +14,7 @@ This repository contains a Python implementation of the Connect4 game with sever
 - **Interactive Command Line Interface**: Play the game and make your moves through the terminal.
 
 
-##AI Algorithms
+## AI Algorithms
 - **Monte Carlo Tree Search (MCTS)**: Uses random simulations to make decisions. This method can handle complex decision-making scenarios by sampling many possible future game states.
 
 - **Alpha-Beta Pruning**: An optimized version of the Minimax algorithm that eliminates branches in the game tree that don't need to be explored.
